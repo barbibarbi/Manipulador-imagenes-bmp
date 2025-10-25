@@ -1,0 +1,1 @@
+# Manipulador-imagenes-bmp
