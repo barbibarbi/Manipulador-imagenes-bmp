@@ -1,0 +1,126 @@
+# depslib dependency file v1.0
+1760764285 source:c:\users\barbi\desktop\tp topicos\bmpmanipuleitor\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+
+1761341985 source:c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\main.c
+	"funciones_grupo.h"
+
+1761343646 source:c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_flores.c
+	"funciones_grupo.h"
+	"funciones_flores.h"
+
+1761359177 source:c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_lipchis.c
+	"funciones_grupo.h"
+	"funciones_lipchis.h"
+
+1761358968 source:c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_quispe.c
+	"funciones_grupo.h"
+	"funciones_quispe.h"
+
+1761355145 source:c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_grupo.c
+	"funciones_grupo.h"
+
+1761357037 c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_grupo.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"funciones_flores.h"
+	"funciones_lipchis.h"
+	"funciones_quispe.h"
+
+1761331758 c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_flores.h
+
+1761356274 c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_lipchis.h
+
+1761335003 c:\users\barbi\desktop\tp top\bmpmanipuleitor\bmpmanipuleitor\funciones_quispe.h
+
+1761343646 source:c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_flores.c
+	"funciones_grupo.h"
+	"funciones_flores.h"
+
+1761403393 c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_grupo.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"../funciones_matrices/funciones_matrices.h"
+	"../funciones_rotacion/funciones_rotacion.h"
+
+1761331758 c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_flores.h
+
+1761356274 c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_lipchis.h
+
+1761402168 c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_quispe.h
+
+1761355145 source:c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_grupo.c
+	"funciones_grupo.h"
+
+1761359177 source:c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_lipchis.c
+	"funciones_grupo.h"
+	"funciones_lipchis.h"
+
+1761360962 source:c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\funciones_quispe.c
+	"funciones_grupo.h"
+	"funciones_quispe.h"
+
+1761403800 source:c:\users\barbi\desktop\tp top\version extendido\bmpmanipuleitor\main.c
+	"../funciones_grupo/funciones_grupo.h"
+
+1761403856 source:c:\users\barbi\desktop\tp top\version extendido\funciones_archivo\funciones_archivo.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_archivo.h"
+
+1761404029 source:c:\users\barbi\desktop\tp top\version extendido\funciones_concatenacion\funciones_concatenacion.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_concatenacion.h"
+
+1761445470 source:c:\users\barbi\desktop\tp top\version extendido\funciones_filtro_basico\funciones_filtrobasico.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_filtrobasico.h"
+
+1761404060 source:c:\users\barbi\desktop\tp top\version extendido\funciones_filtro_parametro\funciones_filtroparametro.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_filtroparametro.h"
+
+1761403862 source:c:\users\barbi\desktop\tp top\version extendido\funciones_rotacion\funciones_rotacion.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_rotacion.h"
+
+1761404207 source:c:\users\barbi\desktop\tp top\version extendido\funciones_matrices\funciones_matrices.c
+	"../funciones_grupo/funciones_grupo.h"
+	"funciones_matrices.h"
+
+1761402168 c:\users\barbi\desktop\tp top\version extendido\funciones_matrices\funciones_matrices.h
+
+1761402417 c:\users\barbi\desktop\tp top\version extendido\funciones_rotacion\funciones_rotacion.h
+
+1761403520 c:\users\barbi\desktop\tp top\version extendido\funciones_concatenacion\funciones_concatenacion.h
+
+1761445470 source:c:\users\barbi\desktop\tp top\version extendido\funciones_grupo\funciones_grupo.c
+	"funciones_grupo.h"
+
+1761445470 c:\users\barbi\desktop\tp top\version extendido\funciones_grupo\funciones_grupo.h
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"../funciones_matrices/funciones_matrices.h"
+	"../funciones_rotacion/funciones_rotacion.h"
+	"../funciones_concatenacion/funciones_concatenacion.h"
+	"../funciones_archivo/funciones_archivo.h"
+	"../funciones_filtro_parametro/funciones_filtroparametro.h"
+	"../funciones_filtro_basico/funciones_filtrobasico.h"
+
+1761445470 c:\users\barbi\desktop\tp top\version extendido\funciones_filtro_basico\funciones_filtrobasico.h
+
+1761402728 c:\users\barbi\desktop\tp top\version extendido\funciones_filtro_parametro\funciones_filtroparametro.h
+
+1761403325 c:\users\barbi\desktop\tp top\version extendido\funciones_archivo\funciones_archivo.h
+
